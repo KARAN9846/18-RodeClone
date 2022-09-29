@@ -33,7 +33,7 @@ This project helped me learn more about Tailwind CSS and how to deliver a flex i
 ## Screenshot 
 
 
-# [Live Link](https://superb-sorbet-770efe.netlify.app/)
+# [Live Link](https://zippy-dodol-162f5d.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
